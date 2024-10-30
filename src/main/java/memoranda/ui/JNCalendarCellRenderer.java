@@ -72,7 +72,7 @@ public class JNCalendarCellRenderer extends javax.swing.table.DefaultTableCellRe
 
 
         if (d.equals(CalendarDate.today())) {
-            label.setBorder(BorderFactory.createLineBorder(new Color(100, 100, 128)));
+            label.setBorder(BorderFactory.createLineBorder(new Color(190, 1, 130)));//First change made
         }
         
 		// set foreground color
