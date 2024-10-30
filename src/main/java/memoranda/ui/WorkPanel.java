@@ -269,7 +269,7 @@ public class WorkPanel extends JPanel {
 		currentB.setOpaque(false);
 		currentB = cb;
 		// Default color blue
-		currentB.setBackground(new Color(215, 225, 250));
+		currentB.setBackground(new Color(215, 225, 25));//Second change made
 		currentB.setOpaque(true);
 	}
 }
